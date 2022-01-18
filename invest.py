@@ -19,3 +19,5 @@ rate = (float(input('Please enter your expected rate of return: ')))/100
 year = float(input('Please enter years you plan to hold account: '))
 addl = input('Please enter yearly addition or type manual: ')
 invest(amount, rate, year, addl)
+
+# Play around with Github branches
